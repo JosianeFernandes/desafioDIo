@@ -38,7 +38,7 @@ for ( let ponto = 1000; ponto <= 2000 ; ponto++) {
                       
                         for ( let ponto = 10000; ponto <= 11000 ; ponto++) {
                             console.log (ponto)
-                            let  nivel="Imortal"
+                            let  nivel="Radiante"
                             console.log ("O Herói de nome " + jogador +  " está no nível de " + nivel)}
                                      
 
